@@ -1,0 +1,94 @@
+{
+  "tasks": [
+    {
+      "id": "todo",
+      "name": "Todo",
+      "cards": [
+        {
+          "id": "941a5842-a3c3-45e9-b670-37b2e7fd2759",
+          "status": "todo",
+          "title": "Task Title",
+          "description": "New task 0.8233545463970207"
+        },
+        {
+          "id": "87253440-ec05-47a3-a3c6-edfbe81e4231",
+          "status": "todo",
+          "title": "Task Title",
+          "description": "New task 0.762584795918144"
+        },
+        {
+          "id": "24fe3c06-3b9c-4dc5-a444-fc1d48afa23e",
+          "status": "todo",
+          "title": "Task Title",
+          "description": "New task 0.46448920633499546"
+        }
+      ]
+    },
+    {
+      "id": "in progress",
+      "name": "In progress",
+      "cards": [
+        {
+          "id": "87fda13c-6f31-40f9-9445-b40cd833b924",
+          "status": "in progress",
+          "title": "Task Title",
+          "description": "New task 0.5076730150910809"
+        },
+        {
+          "id": "234727d0-d454-44a9-bf0f-2858c93c635c",
+          "status": "in progress",
+          "title": "Task Title",
+          "description": "New task 0.26045289424246953"
+        },
+        {
+          "id": "bddc27c4-023b-47ab-bb59-9393bd96d6eb",
+          "title": "Task Title",
+          "description": "New task from in progress 2",
+          "status": "in progress"
+        },
+        {
+          "id": "e16083f9-10ee-49e4-befb-ffe1b5e97546",
+          "title": "Task Title",
+          "description": "New task from in progress 1",
+          "status": "in progress"
+        },
+        {
+          "id": "667746ef-55c9-4555-a45e-ef2d77fc5894",
+          "title": "Task Title",
+          "description": "New task from 41321",
+          "status": "in progress"
+        }
+      ]
+    },
+    {
+      "id": "done",
+      "name": "Done",
+      "cards": [
+        {
+          "id": "71d42cab-9208-4f60-a4b1-2155e50bc0b5",
+          "status": "done",
+          "title": "Task Title",
+          "description": "New task 0.5569719563899258"
+        },
+        {
+          "id": "ef3febfa-1a18-4b44-925f-7aa15d1a9dac",
+          "status": "done",
+          "title": "Task Title",
+          "description": "New task 0.5348187894719965"
+        },
+        {
+          "id": "15d795e2-2232-4f1c-bdb4-358f31fdc1ed",
+          "status": "done",
+          "title": "Task Title",
+          "description": "New task 0.9721777036134545"
+        },
+        {
+          "id": "667746ef-55c9-4555-a45e-312321",
+          "title": "Task Title",
+          "description": "New task from 222",
+          "status": "done"
+        }
+      ]
+    }
+  ]
+}

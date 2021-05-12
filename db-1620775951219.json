@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "slug": "todo",
+      "name": "Todo",
+      "cards": [
+        {
+          "id": "f6be4fef-75a6-400a-b0eb-9e97639d1274",
+          "title": "Task title",
+          "description": "New task from todo 1",
+          "status": "todo"
+        },
+        {
+          "id": "8780dcaa-bd96-4948-b1ef-2a320971bcc6",
+          "title": "Task title",
+          "description": "New task from todo 2",
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "slug": "in progress",
+      "name": "In progress",
+      "cards": [
+        {
+          "id": "0e0dcc59-459d-41ba-93d1-358cb09aad1f",
+          "title": "Task title",
+          "description": "New task from in progress 1",
+          "status": "in progress"
+        },
+        {
+          "id": "c095cd83-854a-474e-ab2d-f3e98f452753",
+          "title": "Task title",
+          "description": "New task from in progress 2",
+          "status": "in progress"
+        },
+        {
+          "id": "76544df0-1238-44d0-82e1-1ef8d4c03d7b",
+          "title": "Task title",
+          "description": "New task from in progress 3",
+          "status": "in progress"
+        }
+      ]
+    },
+    {
+      "slug": "done",
+      "name": "Done",
+      "cards": [
+        {
+          "id": "d2ea8601-9b03-4aac-9239-0e1959344fe3",
+          "title": "Task title",
+          "description": "New task from done 1",
+          "status": "done"
+        }
+      ]
+    }
+  ]
+}
